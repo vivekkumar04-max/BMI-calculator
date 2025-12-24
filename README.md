@@ -6,4 +6,4 @@ BMI(body mass index) of the person when provided
 <br>
 with height in cm and weight in kg.
 <br>
-Author = `vivek kumar keshri`  
+Author = "vivek kumar keshri"
